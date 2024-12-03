@@ -56,13 +56,13 @@ Check the output in the generated log_analysis_results.csv.
 
 6.**Output Format**:
 The output CSV file includes the following sections:
-1. Requests per IP
+1. #Requests per IP#
 IP Address	    Request Count
 192.168.1.1   	45
-2. Most Accessed Endpoint
+2. #Most Accessed Endpoint#
 Endpoint	      Access Count
 /home	          250
-3. Suspicious Activity
+3. #Suspicious Activity#
 IP Address	    Failed Login Count
 203.0.113.10	  12
    
